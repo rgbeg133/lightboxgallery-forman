@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Molle', cursive;
+  color: #48F7AA;
+}
+
+.photo-gallery a {
+  text-decoration: none;
+}
+
+.photo-gallery img {
+  border: 1px solid #bbb;
+  padding:4px;
+}
+
+.photo-gallery img:hover {
+  box-shadow: 3px  3px 3px #888;
+}

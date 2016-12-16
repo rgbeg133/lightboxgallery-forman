@@ -211,3 +211,17 @@ body.lb-disable-scrolling {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
+
+
+.photo-gallery a {
+  text-decoration: none;
+}
+
+.photo-gallery img {
+  border: 1px solid #bbb;
+  padding:4px;
+}
+
+.photo-gallery img:hover {
+  box-shadow: 10px  10px 10px #48F7AA;
+}
